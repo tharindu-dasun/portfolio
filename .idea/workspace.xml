@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fe2acf-1cde-4d59-8c3a-e5a59267ee62" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/Assests/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +47,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/important/portfolio/lk.ijse.gdse/Assests/images/project_images",
+    "last_opened_file_path": "D:/important/portfolio/lk.ijse.gdse/Assests",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\important\portfolio\lk.ijse.gdse\Assests" />
       <recent name="D:\important\portfolio\lk.ijse.gdse\Assests\images\project_images" />
       <recent name="D:\important\portfolio\lk.ijse.gdse\Assests\images\my_images" />
     </key>
@@ -82,7 +84,7 @@
       <workItem from="1693021282982" duration="592000" />
       <workItem from="1693070214544" duration="10693000" />
       <workItem from="1693082299173" duration="2833000" />
-      <workItem from="1693115566719" duration="21766000" />
+      <workItem from="1693115566719" duration="23035000" />
     </task>
     <servers />
   </component>

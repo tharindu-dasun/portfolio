@@ -714,3 +714,18 @@ h3.my-profession
     height: 50px;
     padding: 0 50px;
 }
+@media (max width:1199px)
+{
+    .aside
+    {
+        left: -270;
+    }
+    .main-content
+    {
+        padding-left: 0;
+    }
+    .about .about-content .personal-info .info-item span
+    {
+        display: block;
+    }
+}

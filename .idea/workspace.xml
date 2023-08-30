@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fe2acf-1cde-4d59-8c3a-e5a59267ee62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/images/my_images/My_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/images/my_images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/images/my_images/my.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/Assests/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +93,7 @@
       <workItem from="1693115566719" duration="36285000" />
       <workItem from="1693212233554" duration="5183000" />
       <workItem from="1693304337214" duration="5088000" />
-      <workItem from="1693321128455" duration="10999000" />
+      <workItem from="1693321128455" duration="11568000" />
     </task>
     <servers />
   </component>

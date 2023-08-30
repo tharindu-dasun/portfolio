@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Poppins:wght@200;300;400;500;600;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Clicker+Script&family=Poppins:wght@200;300;400;500;600&display=swap');
 :root
 {
     --bg-black-900: #f2f2fc;
@@ -329,7 +329,7 @@ h3.hello
 h3.hello span
 {
     font-family: 'Clicker Script' , cursive;
-    font-size: 30px;
+    font-size: 50px;
     font-weight: 700;
     color: var(--skin-color);
 }

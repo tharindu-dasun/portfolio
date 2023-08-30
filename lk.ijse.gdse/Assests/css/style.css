@@ -300,7 +300,7 @@ ul
     color: var(--text-black-900);
     padding: 5px 15px ;
 }
-.aside .nav li a.active
+.aside .nav li a.active-always
 {
     color: var(--skin-color);
 }
@@ -308,7 +308,11 @@ ul
 {
     margin-right: 15px;
 }
-
+.aside .nav li a.active:hover
+{
+    cursor: pointer;
+    color: var(--skin-color);
+}
 /*================== Home ====================*/
 .home
 {

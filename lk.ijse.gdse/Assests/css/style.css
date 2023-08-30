@@ -198,6 +198,10 @@ ul
     font-size: 30px;
     text-transform: capitalize;
 }
+.aside .logo .img
+{
+    height: 20px;
+}
 .aside .logo a
 {
     color: var(--text-black-900);

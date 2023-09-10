@@ -607,6 +607,9 @@ h3.my-profession
     max-width: 50%;
     margin-bottom: 40px;
 }
+.skills-item:hover .skills-img{
+    transform: scale(1.1);
+}
 .skills .skills-item-inner
 {
     border: 6px solid var(--bg-black-100);
@@ -704,6 +707,9 @@ h3.my-profession
     flex: 0 0 33.33%;
     max-width: 33.33%;
     margin-bottom: 30px;
+}
+.project-item:hover .project-img{
+    transform: scale(1.1);
 }
 .project .project-item-inner
 {

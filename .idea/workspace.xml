@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fe2acf-1cde-4d59-8c3a-e5a59267ee62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/jQury/jquery-3.6.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/jQury/js/myScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/Assests/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/Assests/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lk.ijse.gdse/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lk.ijse.gdse/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,25 +44,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/important/portfolio/lk.ijse.gdse/Assests",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/important/portfolio/lk.ijse.gdse/Assests&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\important\portfolio\lk.ijse.gdse\Assests" />
       <recent name="D:\important\portfolio\lk.ijse.gdse\Assests\images\my_images" />
       <recent name="D:\important\portfolio\lk.ijse.gdse\Assests\images\skills" />
       <recent name="D:\important\portfolio\lk.ijse.gdse\Assests\images\logo" />
       <recent name="D:\important\portfolio\lk.ijse.gdse\Assests\images\project_images" />
-      <recent name="D:\important\portfolio\lk.ijse.gdse\Assests" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\important\portfolio\lk.ijse.gdse\Assests\javaScript" />
@@ -96,7 +97,17 @@
       <workItem from="1693212233554" duration="5183000" />
       <workItem from="1693304337214" duration="5088000" />
       <workItem from="1693321128455" duration="16610000" />
-      <workItem from="1693478129052" duration="895000" />
+      <workItem from="1693478129052" duration="1860000" />
+      <workItem from="1693579562280" duration="622000" />
+      <workItem from="1693629130899" duration="597000" />
+      <workItem from="1693850797112" duration="1058000" />
+      <workItem from="1693935982638" duration="86000" />
+      <workItem from="1693936112993" duration="1047000" />
+      <workItem from="1693999063139" duration="1201000" />
+      <workItem from="1694182239640" duration="1912000" />
+      <workItem from="1694242738578" duration="833000" />
+      <workItem from="1694330013566" duration="603000" />
+      <workItem from="1694368592964" duration="384000" />
     </task>
     <servers />
   </component>
